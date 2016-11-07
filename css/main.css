@@ -151,7 +151,8 @@ button.success,
 	background-color: transparent;
 }
 	.top-bar .name h1 {
-		font-family: "Satisfy-Regular", Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+			/*font-family: 'Exo', sans-serif;*/
+		font-family: 'Exo', Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 		font-size: 1.625rem;
 		margin-top: 0.625rem;
 	}
