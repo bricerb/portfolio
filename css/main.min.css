@@ -4,3 +4,4 @@ body{background-color:#f4f4f4;font-family:Montserrat,"Helvetica Neue",Helvetica,
 @media only screen and (max-width:30rem){.intro h1{font-size:2.125rem}.social-icon li{margin-right:.5rem}}
 @media only screen and (max-width:24rem){.portfolio{width:98%}.social-icon li{margin-bottom:.9375rem}.social-icon li:last-child{margin-bottom:0}}
 @media only screen and (max-width:15rem){.top-bar .name h1 a{width:100%;font-size:1.125rem}#tweets p.tweet{font-size:1.125rem}}
+li{list-style:none}
