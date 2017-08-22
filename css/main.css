@@ -604,22 +604,22 @@ textarea {
 	color: #f04124;
 }
 /** Social Icons **/
-.socicons {
+.social-icon {
 	text-align: center;
 	margin: 40px 0 0 0;
 	padding-left: 0;
 	list-style: none;
 }
-	.socicons li {
+	.social-icon li {
 		display: inline-block;
 		line-height: 1;
 		margin-right: 1.563rem;
 		padding: 0;
 	}
-		.socicons li:last-child {
+		.social-icon li:last-child {
 			margin-right: 0;
 		}
-			.socicons a {
+			.social-icon a {
 				display: block;
 				width: 70px;
 				height: 70px;
@@ -631,54 +631,54 @@ textarea {
 				   -moz-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 						transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 			}
-				.socicons a:hover {
+				.social-icon a:hover {
 					box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
 				}
-					.socicons a.github {
+					.social-icon a.github {
 						background-color: #3b5998;
 						color: #fff;
 					}
-						.socicons a.github:hover {
+						.social-icon a.github:hover {
 							background-color: #244281;
 							color: #fff;
 						}
-					.socicons a.twitter {
+					.social-icon a.twitter {
 						background-color: #4099ff;
 						color: #fff;
 					}
-						.socicons a.twitter:hover {
+						.social-icon a.twitter:hover {
 							background-color: #2982e8;
 							color: #fff;
 						}
-					.socicons a.google-plus {
+					.social-icon a.google-plus {
 						background-color: #d34836;
 						color: #fff;
 					}
-						.socicons a.google-plus:hover {
+						.social-icon a.google-plus:hover {
 							background-color: #bc311f;
 							color: #fff;
 						}
-					.socicons a.dribbble {
+					.social-icon a.dribbble {
 						background-color: #c73b6f;
 						color: #fff;
 					}
-						.socicons a.dribbble:hover {
+						.social-icon a.dribbble:hover {
 							background-color: #b02458;
 							color: #fff;
 						}
-					.socicons a.flickr {
+					.social-icon a.flickr {
 						background-color: #0063dc;
 						color: #fff;
 					}
-						.socicons a.flickr:hover {
+						.social-icon a.flickr:hover {
 							background-color: #004cc5;
 							color: #fff;
 						}
-							.socicons .fa {
+							.social-icon .fa {
 								font-size: 2.25rem;
 								line-height: 2;
 							}
-								.socicons a:hover .fa {
+								.social-icon a:hover .fa {
 									-webkit-animation: toRightFromLeft 0.3s forwards;
 									   -moz-animation: toRightFromLeft 0.3s forwards;
 											animation: toRightFromLeft 0.3s forwards;
@@ -783,7 +783,7 @@ textarea {
 	.intro h1 {
 		font-size: 2.125rem;
 	}
-	.socicons li {
+	.social-icon li {
 		margin-right: 0.5rem;
 	}
 }
@@ -795,10 +795,10 @@ textarea {
 	.portfolio {
 		width: 98%;
 	}
-	.socicons li {
+	.social-icon li {
 		margin-bottom: 0.9375rem;
 	}
-		.socicons li:last-child {
+		.social-icon li:last-child {
 			margin-bottom: 0;
 		}
 }
