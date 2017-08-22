@@ -604,22 +604,22 @@ textarea {
 	color: #f04124;
 }
 /** Social Icons **/
-.social-icons {
+.socicons {
 	text-align: center;
 	margin: 40px 0 0 0;
 	padding-left: 0;
 	list-style: none;
 }
-	.social-icons li {
+	.socicons li {
 		display: inline-block;
 		line-height: 1;
 		margin-right: 1.563rem;
 		padding: 0;
 	}
-		.social-icons li:last-child {
+		.socicons li:last-child {
 			margin-right: 0;
 		}
-			.social-icons a {
+			.socicons a {
 				display: block;
 				width: 70px;
 				height: 70px;
@@ -631,54 +631,54 @@ textarea {
 				   -moz-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 						transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 			}
-				.social-icons a:hover {
+				.socicons a:hover {
 					box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
 				}
-					.social-icons a.github {
+					.socicons a.github {
 						background-color: #3b5998;
 						color: #fff;
 					}
-						.social-icons a.github:hover {
+						.socicons a.github:hover {
 							background-color: #244281;
 							color: #fff;
 						}
-					.social-icons a.twitter {
+					.socicons a.twitter {
 						background-color: #4099ff;
 						color: #fff;
 					}
-						.social-icons a.twitter:hover {
+						.socicons a.twitter:hover {
 							background-color: #2982e8;
 							color: #fff;
 						}
-					.social-icons a.google-plus {
+					.socicons a.google-plus {
 						background-color: #d34836;
 						color: #fff;
 					}
-						.social-icons a.google-plus:hover {
+						.socicons a.google-plus:hover {
 							background-color: #bc311f;
 							color: #fff;
 						}
-					.social-icons a.dribbble {
+					.socicons a.dribbble {
 						background-color: #c73b6f;
 						color: #fff;
 					}
-						.social-icons a.dribbble:hover {
+						.socicons a.dribbble:hover {
 							background-color: #b02458;
 							color: #fff;
 						}
-					.social-icons a.flickr {
+					.socicons a.flickr {
 						background-color: #0063dc;
 						color: #fff;
 					}
-						.social-icons a.flickr:hover {
+						.socicons a.flickr:hover {
 							background-color: #004cc5;
 							color: #fff;
 						}
-							.social-icons .fa {
+							.socicons .fa {
 								font-size: 2.25rem;
 								line-height: 2;
 							}
-								.social-icons a:hover .fa {
+								.socicons a:hover .fa {
 									-webkit-animation: toRightFromLeft 0.3s forwards;
 									   -moz-animation: toRightFromLeft 0.3s forwards;
 											animation: toRightFromLeft 0.3s forwards;
@@ -783,7 +783,7 @@ textarea {
 	.intro h1 {
 		font-size: 2.125rem;
 	}
-	.social-icons li {
+	.socicons li {
 		margin-right: 0.5rem;
 	}
 }
@@ -795,10 +795,10 @@ textarea {
 	.portfolio {
 		width: 98%;
 	}
-	.social-icons li {
+	.socicons li {
 		margin-bottom: 0.9375rem;
 	}
-		.social-icons li:last-child {
+		.socicons li:last-child {
 			margin-bottom: 0;
 		}
 }
