@@ -604,22 +604,22 @@ textarea {
 	color: #f04124;
 }
 /** Social Icons **/
-.social-icon {
+.social-icons {
 	text-align: center;
 	margin: 40px 0 0 0;
 	padding-left: 0;
 	list-style: none;
 }
-	.social-icon li {
+	.social-icons li {
 		display: inline-block;
 		line-height: 1;
 		margin-right: 1.563rem;
 		padding: 0;
 	}
-		.social-icon li:last-child {
+		.social-icons li:last-child {
 			margin-right: 0;
 		}
-			.social-icon a {
+			.social-icons a {
 				display: block;
 				width: 70px;
 				height: 70px;
@@ -631,54 +631,54 @@ textarea {
 				   -moz-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 						transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 			}
-				.social-icon a:hover {
+				.social-icons a:hover {
 					box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
 				}
-					.social-icon a.github {
+					.social-icons a.github {
 						background-color: #3b5998;
 						color: #fff;
 					}
-						.social-icon a.github:hover {
+						.social-icons a.github:hover {
 							background-color: #244281;
 							color: #fff;
 						}
-					.social-icon a.twitter {
+					.social-icons a.twitter {
 						background-color: #4099ff;
 						color: #fff;
 					}
-						.social-icon a.twitter:hover {
+						.social-icons a.twitter:hover {
 							background-color: #2982e8;
 							color: #fff;
 						}
-					.social-icon a.google-plus {
+					.social-icons a.google-plus {
 						background-color: #d34836;
 						color: #fff;
 					}
-						.social-icon a.google-plus:hover {
+						.social-icons a.google-plus:hover {
 							background-color: #bc311f;
 							color: #fff;
 						}
-					.social-icon a.dribbble {
+					.social-icons a.dribbble {
 						background-color: #c73b6f;
 						color: #fff;
 					}
-						.social-icon a.dribbble:hover {
+						.social-icons a.dribbble:hover {
 							background-color: #b02458;
 							color: #fff;
 						}
-					.social-icon a.flickr {
+					.social-icons a.flickr {
 						background-color: #0063dc;
 						color: #fff;
 					}
-						.social-icon a.flickr:hover {
+						.social-icons a.flickr:hover {
 							background-color: #004cc5;
 							color: #fff;
 						}
-							.social-icon .fa {
+							.social-icons .fa {
 								font-size: 2.25rem;
 								line-height: 2;
 							}
-								.social-icon a:hover .fa {
+								.social-icons a:hover .fa {
 									-webkit-animation: toRightFromLeft 0.3s forwards;
 									   -moz-animation: toRightFromLeft 0.3s forwards;
 											animation: toRightFromLeft 0.3s forwards;
@@ -783,7 +783,7 @@ textarea {
 	.intro h1 {
 		font-size: 2.125rem;
 	}
-	.social-icon li {
+	.social-icons li {
 		margin-right: 0.5rem;
 	}
 }
@@ -795,10 +795,10 @@ textarea {
 	.portfolio {
 		width: 98%;
 	}
-	.social-icon li {
+	.social-icons li {
 		margin-bottom: 0.9375rem;
 	}
-		.social-icon li:last-child {
+		.social-icons li:last-child {
 			margin-bottom: 0;
 		}
 }
